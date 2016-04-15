@@ -1,0 +1,28 @@
+name: renaissance
+favicon: null
+layout_spectrum: 0.5075896461494267
+typography_spectrum: 0.822054126765579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7372317395638674
+  lightness: 0.4540983715560287
+  saturation: 0.37887731031514704
+  rhythmicContrast: 0.25438486575149
+purpose: []
